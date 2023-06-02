@@ -1,7 +1,7 @@
-# gRefCOCO - Dataset for GRES: Generalized Referring Expression Segmentation
+# gRefCOCO - Dataset for [CVPR2023 Highlight] GRES: Generalized Referring Expression Segmentation
 
 
-**[🏠[Homepage]](https://henghuiding.github.io/GRES/)** &emsp; **[📄[Arxiv]](https://arxiv.org/abs/)**
+**[🏠[Project page]](https://henghuiding.github.io/GRES/)** &emsp; **[📄[Arxiv]](https://arxiv.org/abs/2306.00968)**
 
 This repository contains information and tools for the [gRefCOCO](https://henghuiding.github.io/GRES/) dataset.
 
@@ -24,7 +24,7 @@ We will update this repository with full API package and documentation soon. Ple
 
 ## Acknowledgement
 
-Our project is built upon [refer](https://github.com/lichengunc/refer) and [cocoapi](https://github.com/cocodataset/cocoapi). Huge thanks to the authors for their great works!
+Our project is built upon [refer](https://github.com/lichengunc/refer) and [cocoapi](https://github.com/cocodataset/cocoapi). Many thanks to the authors for their great works!
 
 
 ## BibTeX
