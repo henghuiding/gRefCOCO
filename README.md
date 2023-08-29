@@ -12,8 +12,6 @@ This repository contains information and tools for the [gRefCOCO](https://henghu
  - ☁️ [OneDrive](https://entuedu-my.sharepoint.com/:u:/g/personal/liuc0058_e_ntu_edu_sg/EaEz86LZwtNBmUdD4oMo9TkBBJ5Kft-ctoxyJ4cFhsNlHQ?e=ibiOi4)
  - ☁️ [Google Drive](https://drive.google.com/file/d/1WXifNjJ8gKQAcPQWcCkCdNYvRrkS6nbQ/view?usp=sharing)
 
- >The released dataset contains the training split and the validation split. TestA and testB are temporarily held for competition on CodaLab.
-
 
 ## Usage
 
