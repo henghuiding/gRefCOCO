@@ -33,7 +33,7 @@ python -m torch.distributed.launch --nproc_per_node=2 --use_env main.py --datase
 ```
 ### Inference
 
-1. Obtain `checkpoint.pth` after training or download trained  model [ here ☁️ Google Drive](https://drive.google.com/file/d/1djNwwNAyAIEJMZIQQHV_NYnlc8TeA4wU/view?usp=drive_link)
+1. Obtain `checkpoint.pth` after training or download trained  model [ here ☁️ Google Drive]([https://drive.google.com/file/d/1djNwwNAyAIEJMZIQQHV_NYnlc8TeA4wU/view?usp=drive_link](https://drive.google.com/file/d/14OrM3n_Oap7xCT6nxj9QEnkJOUMpBGjB/view?usp=drive_link))
 2. For test results, pass --test and --test_type test or testA or testB according to the dataset.
 ```
 python -m torch.distributed.launch --nproc_per_node=2 --use_env main.py --dataset_config configs/grefcoco.json --batch_size 4  --resume grefcoco/checkpoint.pth --ema --eval
