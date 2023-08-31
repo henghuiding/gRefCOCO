@@ -28,10 +28,10 @@ This repository contains information and tools for the [gRefCOCO](https://henghu
  - We will update this repository with full API package and documentation soon. Please follow the usage in the [baseline code](https://github.com/henghuiding/ReLA) for now.
 
 ## Task 1 - GREC: Generalized Referring Expression Comprehension 
-The GREC evaluation metric code is [here](https://github.com/henghuiding/gRefCOCO/blob/main/mdetr/datasets/refexp.py).
+- The GREC evaluation metric code is [here](https://github.com/henghuiding/gRefCOCO/blob/main/mdetr/datasets/refexp.py).
 
 
-We provide code based on  [MDETR](https://github.com/ashkamath/mdetr), its training and inference are as follows:
+- We provide code based on  [MDETR](https://github.com/ashkamath/mdetr), its training and inference are as follows:
 
 
 ### Training (Finetuning)
