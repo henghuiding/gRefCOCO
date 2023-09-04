@@ -17,9 +17,7 @@ This repository contains information and tools for the [gRefCOCO](https://henghu
 ## gRefCOCO Dataset Download
 
 ⬇️ Get the gRefCOCO dataset from: 
- - ☁️ [OneDrive](https://entuedu-my.sharepoint.com/:u:/g/personal/liuc0058_e_ntu_edu_sg/EaEz86LZwtNBmUdD4oMo9TkBBJ5Kft-ctoxyJ4cFhsNlHQ?e=ibiOi4)
- - ☁️ [Google Drive](https://drive.google.com/file/d/1WXifNjJ8gKQAcPQWcCkCdNYvRrkS6nbQ/view?usp=sharing)
-
+ - ☁️ [OneDrive](https://entuedu-my.sharepoint.com/:f:/g/personal/liuc0058_e_ntu_edu_sg/Ep74cipLWvRPpkxF9q2M8-gBINURc6YmwwG2fq1nqg-j5Q)
 
 ## Usage
 
