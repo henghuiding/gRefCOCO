@@ -18,6 +18,7 @@ This repository contains information and tools for the [gRefCOCO](https://henghu
 
 ⬇️ Get the gRefCOCO dataset from: 
  - ☁️ [Google Drive](https://drive.google.com/drive/folders/1My2U6SuTAZG9yGBKe_PjsUJJgjdxOiiN?usp=sharing)
+ - 🤗 [HuggingFace](https://huggingface.co/datasets/FudanCVL/gRefCOCO)
 
 ## Usage
 
